@@ -31,7 +31,7 @@ const customSelectorSchema = z.object({
 const config = loadConfig();
 const server = new McpServer({
   name: "edge-control",
-  version: "0.1.6",
+  version: "0.1.7",
 });
 const bridgeClient = new EdgeBridgeClient({ config });
 const advancedCrawler = new AdvancedBrowserCrawler({ client: bridgeClient });

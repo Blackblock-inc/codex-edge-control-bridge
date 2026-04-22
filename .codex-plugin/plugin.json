@@ -1,6 +1,6 @@
 {
   "name": "edge-control",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Local Edge browser control for Codex through a localhost bridge, an Edge extension, and direct MCP tools.",
   "author": {
     "name": "Reol"
